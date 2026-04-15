@@ -3,22 +3,23 @@ I'm a Computer Science Specialist who's all about cracking problems and crafting
 ## 🚀 Skills
 
 **Programming:**  
-C/C++, JavaScript, Python  
+- C/C++, JavaScript, Python  
 
 **Web Development:**  
-HTML, CSS, JavaScript  
+- HTML, CSS, JavaScript  
 
 **Databases:**  
-MongoDB, MySQL  
+- MongoDB, MySQL  
 
 **Machine Learning:**  
-Data Analysis, Model Development  
+- Data Analysis, Model Development  
 
 **Tools:**  
-Git 
+- Git
+
 🎓 Education
 
-B.Tech in Information Science and Engineering (M. S. Ramaiah University of Applied Sciences, Bangalore)
+ - B.Tech in Information Science and Engineering (M. S. Ramaiah University of Applied Sciences, Bangalore)
 <!--
 **SnehaAN144/SnehaAN144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
