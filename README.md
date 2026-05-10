@@ -3,10 +3,10 @@ I'm a Computer Science Specialist who's all about cracking problems and crafting
 ## 🚀 Skills
 
 **Programming:**  
-- C/C++, JavaScript, Python  
+- C/C++, JavaScript, Python, java
 
 **Web Development:**  
-- HTML, CSS, JavaScript  
+- HTML, CSS, JavaScript,Node.js,Express.js,EJS,REST api
 
 **Databases:**  
 - MongoDB, MySQL  
